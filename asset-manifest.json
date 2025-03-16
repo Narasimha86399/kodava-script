@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodava-script/static/css/main.6470036e.css",
+    "main.js": "/kodava-script/static/js/main.a22ca81f.js",
+    "index.html": "/kodava-script/index.html",
+    "main.6470036e.css.map": "/kodava-script/static/css/main.6470036e.css.map",
+    "main.a22ca81f.js.map": "/kodava-script/static/js/main.a22ca81f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6470036e.css",
+    "static/js/main.a22ca81f.js"
+  ]
+}
